@@ -1,6 +1,6 @@
 🔴❗UNDER DEVELOPMENT❗🔴
 
-# INFLECS methodology
+# InfleCS Analysis
 
 Script developed to use [Free energy estimation and clustering with InfleCS](https://github.com/delemottelab/InfleCS-free-energy-clustering-tutorial) methodology of Free Energy Landscape generation.
 
@@ -8,7 +8,7 @@ Script developed to use [Free energy estimation and clustering with InfleCS](htt
 
 Download [Free energy estimation and clustering with InfleCS](https://github.com/delemottelab/InfleCS-free-energy-clustering-tutorial) on the working directory
 
-Download the INFLECS methodology code and unzip it on the desirable directory. To prepare the environment use the following command:
+Download the InfleCS Analysis code and unzip it on the desirable directory. To prepare the environment use the following command:
 
 ```
 conda env create -f environment.yml
@@ -17,7 +17,7 @@ conda env create -f environment.yml
 Copy the folder 'free_energy_clustering' inside the inflecs method folder, in which you are going to have:
 
 ```
-inflecs-method
+inflecs-analysis
 
     - free_energy_clustering
 
